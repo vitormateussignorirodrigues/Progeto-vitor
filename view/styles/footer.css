@@ -1,0 +1,19 @@
+footer{
+    width: 97%;
+    height: 8%;
+
+    padding-right: 2%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+}
+
+footer button{
+    background-color: transparent;
+    border: none;
+
+    font-size: 3vw;
+    color: var(--corblack);
+}

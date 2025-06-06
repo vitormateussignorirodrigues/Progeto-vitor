@@ -1,0 +1,28 @@
+ export const bd_projetos = [
+    { titulo: "coca cola", preco: "8,00" },
+    { titulo: "Arroz Tio João 1kg", preco: "R$ 6,49" },
+    { titulo: "Feijão Carioca Kicaldo 1kg", preco: "R$ 7,89" },
+    { titulo: "Óleo de Soja Soya 900ml", preco: "R$ 8,29" },
+    { titulo: "Leite Italac Integral 1L", preco: "R$ 4,79" },
+    { titulo: "Achocolatado Nescau 400g", preco: "R$ 6,99" },
+    { titulo: "Bolacha Oreo 90g", preco: "R$ 3,49" },
+    { titulo: "Sabão em Pó Omo 800g", preco: "R$ 13,90" },
+    { titulo: "Amaciante Downy 500ml", preco: "R$ 9,99" },
+    { titulo: "Shampoo Seda 325ml", preco: "R$ 11,49" },
+    { titulo: "Condicionador Dove 200ml", preco: "R$ 14,90" },
+    { titulo: "Desodorante Rexona Aerosol", preco: "R$ 12,90" },
+    { titulo: "Papel Higiênico Neve 12x30m", preco: "R$ 18,90" },
+    { titulo: "Escova Dental Colgate", preco: "R$ 4,50" },
+    { titulo: "Creme Dental Sorriso 90g", preco: "R$ 3,99" },
+    { titulo: "Sabonete Lux 85g", preco: "R$ 2,39" },
+    { titulo: "Detergente Ypê 500ml", preco: "R$ 2,99" },
+    { titulo: "Esponja de Aço Assolan", preco: "R$ 1,89" },
+    { titulo: "Macarrão Renata Espaguete 500g", preco: "R$ 4,19" },
+    { titulo: "Molho de Tomate Pomarola 340g", preco: "R$ 3,59" },
+    { titulo: "Farinha de Trigo Dona Benta 1kg", preco: "R$ 4,99" },
+    { titulo: "Açúcar União Refinado 1kg", preco: "R$ 4,79" },
+    { titulo: "Sal Refinado Cisne 1kg", preco: "R$ 2,49" },
+    { titulo: "Margarina Qualy 500g", preco: "R$ 7,59" },
+    { titulo: "Miojo Nissin Galinha Caipira", preco: "R$ 1,39" }
+  ];
+  

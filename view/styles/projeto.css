@@ -1,0 +1,12 @@
+@import url(./reset.css);
+@import url(./header.css);
+@import url(./banner.css);
+@import url(./cards_projetos.css);
+
+body{
+    width: 100vw;
+
+    overflow-x:hidden;
+
+    background: linear-gradient(22deg,rgba(5, 18, 11, 1) 0%, rgba(23, 53, 47, 1) 25%, rgba(51, 100, 96, 1) 50%, rgba(81, 142, 136, 1) 75%, rgba(159, 177, 159, 1) 100%);
+}

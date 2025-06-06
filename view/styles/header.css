@@ -1,0 +1,51 @@
+header{
+    width: 100%;
+    height: 15vh;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#profissao{
+    font-size: 2vw;
+    font-family: var(--fontPrincipal);
+
+    color: var(--corBlack);
+}
+
+#botoes-header{
+    width: 70%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+}
+
+.botao-header{
+    width: 15%;
+    height: 30%;
+
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2%;
+
+    margin: 0 1%;
+
+    border: none;
+    border-radius: 0.6vw;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.50);
+    background-color: var(--corGreen);
+
+    font-size: 1.2vw;
+    font-family: var(--fontSecundaria);
+    color: var(--corBlack);
+
+    cursor: pointer;
+    transition: all 0.1s ease-in-out;
+}

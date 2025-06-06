@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&family=Julius+Sans+One&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--corBlack);
+}
+
+:root{
+    --corWhite: white;
+    --corGreen: #518e88;
+    --corBlack: black;
+
+    --fontPrincipal:"Lemonada";
+    --fontSecundaria:"Leckerli One";
+}
